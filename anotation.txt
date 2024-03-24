@@ -1,0 +1,4 @@
+-- Subir docker configurado
+
+-> docker-compose up -d
+   docker ps
