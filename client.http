@@ -14,11 +14,10 @@ Content-Type: application/json
 ###
 
 # @name authenticate
-POST {{baseUrl}}accounts
+POST {{baseUrl}}sessions
 Content-Type: application/json
 
 {
-	"name": "axel2",
 	"email": "aaaa@gmail.com.br",
 	"password": "123456"
 }
