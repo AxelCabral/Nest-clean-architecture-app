@@ -3,6 +3,7 @@
   "rules": {
     "no-useless-constructor": "off",
     "semi": ["error", "never"],
-    "no-extra-semi": "error"
+    "no-extra-semi": "error",
+    "no-new": "off"
   }
 }
